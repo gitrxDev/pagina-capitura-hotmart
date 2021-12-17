@@ -1,4 +1,4 @@
-## Esse é um projeto de página Hotmart
+## Esse é um projeto de página Hotmart 💼
 
 Essa foi minha primeira paǵina para capturar emails,
 
